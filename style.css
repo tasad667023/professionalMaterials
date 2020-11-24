@@ -1,0 +1,72 @@
+/* This will be applied to the whole body  */
+body {
+    background-color: #d9dcd6;
+}
+/* This will be applied to the h2 and title tag */
+h2, #title{
+    display: inline-block; 
+    background-color: #ffffff;
+    color: #439b94; 
+    font-size: 35px;
+    margin-bottom: -10px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    /* margin-right: 35px;
+    margin-left: 35px;  */
+}
+/* This will be applied to the p tag */
+p{
+    text-align: justify;
+  }
+/* This will be applied to the container class in the html files */
+.container {
+    background-color: #ffffff;
+    width: 50%; 
+    margin-top: 40px;
+    margin-left: 50px;
+}
+/* This will be applied to the content id in the html files */
+#content {
+    min-height: 100%;
+}  
+/* This will be applied to the footer */
+.footer{
+    margin-top: 0px;
+    font-size: 10px;
+    border-top: 10px solid #439b94;
+    border-top-width: 10px;
+    border-color:#439b94; 
+    text-align: center; 
+    background-color: #292727d8;
+    color: #5c61609d; 
+    height: 45px; 
+}
+/* This will be applied to the h3 tag */
+h3 {
+    font-size: 11px;
+    margin-top: 1%;
+}
+/* Specific styling for index page footer*/
+#indexFooter{
+margin-top: 98px;   
+}
+/* Specific styling for Contact Page */
+#messageInput{
+    height: 200px;
+}
+#submitButton{
+    margin-bottom: 10px;
+}
+#contactFooter{
+margin-top: 50px;   
+}
+/* Specific styling for Portfolio Page */
+img{
+    margin:10px;
+}
+
+#portfolioFooter{
+    margin-top: 50px;   
+}
+
+
