@@ -1,30 +1,19 @@
 /* This will be applied to the whole body  */
 body {
-    background-color: #143814;
+    background-color: #254E58;
     color: white;
     font-family:verdana;
 }
-/* This will be applied to the h2 and title tag */
-h2, #title{
-    display: inline-block; 
-    background-color: #ffffff;
-    color: #439b94; 
-    font-size: 35px;
-    margin-bottom: -10px;
-    padding-top: 15px;
-    padding-bottom: 5px;
-    /* margin-right: 35px;
-    margin-left: 35px;  */
+/* 
+.navbar-expand-lg{
+    background-color: #4f4A41;
+} */
+
+
+.nav-pills .nav-link.active{
+    background-color: rgb(243, 171, 36);
 }
 
-.nav-pills{
-    background-color: #143814;
-}
-
-.nav-link.active{
-    background-color: tomato;
-}
- 
 .tab-pane{
     font-size: 20px;
 }
