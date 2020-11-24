@@ -30,5 +30,20 @@ p{
     min-height: 100%;
 }  
  
+.tab-pane{
+    font-size: 20px;
+}
  
- 
+.nav-link{
+    font-size: 25px;
+}
+
+.bi-box-arrow-down-left{
+    float: right;
+}
+
+.btn-link{
+    float: right;
+    font-size: 20px;
+} 
+
