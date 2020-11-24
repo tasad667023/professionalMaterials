@@ -17,6 +17,13 @@ h2, #title{
     margin-left: 35px;  */
 }
 
+.nav-pills{
+    background-color: #143814;
+}
+
+.nav-link.active{
+    background-color: tomato;
+}
  
 .tab-pane{
     font-size: 20px;
